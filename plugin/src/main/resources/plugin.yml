@@ -1,0 +1,7 @@
+name: ServerSentinel
+version: '1.0'
+main: site.nullxweb.serverSentinel.ServerSentinel
+api-version: '1.21'
+prefix: ServerSentinel
+authors: [ ArchDevs ]
+website: https://nullxweb.site/
